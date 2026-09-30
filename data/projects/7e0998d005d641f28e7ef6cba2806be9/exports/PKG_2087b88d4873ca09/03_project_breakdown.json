@@ -1,0 +1,431 @@
+{
+  "adaptation_plan": {
+    "changes": [
+      {
+        "assumptions": [],
+        "category": "character",
+        "change_id": "CHANGE_001",
+        "confidence": 0.0,
+        "evidence_ids": [],
+        "original_element": "CHAR_001: name=Ravi; age=unspecified; role=unspecified; relationships={}; personality=[]; emotional_state=unspecified",
+        "proposed_change": "Preserve the canonical identity, name, relationships, personality cues and emotional arc. Request human review before any culture-specific characterization.",
+        "rationale": "The recurring character is present in the source screenplay. No supplied evidence justifies changing identity or relationships.",
+        "scene_id": "SCENE_001",
+        "status": "rejected",
+        "target_id": "CHAR_001",
+        "target_type": "character",
+        "warnings": [
+          "Character identity and relationships must not be changed to make the screenplay appear more culturally specific.",
+          "Insufficient evidence for a culture-specific adaptation."
+        ]
+      },
+      {
+        "assumptions": [],
+        "category": "character",
+        "change_id": "CHANGE_002",
+        "confidence": 0.0,
+        "evidence_ids": [],
+        "original_element": "CHAR_002: name=Meena; age=unspecified; role=unspecified; relationships={}; personality=[]; emotional_state=unspecified",
+        "proposed_change": "Preserve the canonical identity, name, relationships, personality cues and emotional arc. Request human review before any culture-specific characterization.",
+        "rationale": "The recurring character is present in the source screenplay. No supplied evidence justifies changing identity or relationships.",
+        "scene_id": "SCENE_001",
+        "status": "rejected",
+        "target_id": "CHAR_002",
+        "target_type": "character",
+        "warnings": [
+          "Character identity and relationships must not be changed to make the screenplay appear more culturally specific.",
+          "Insufficient evidence for a culture-specific adaptation."
+        ]
+      },
+      {
+        "assumptions": [
+          "Any future dialect pass must preserve each line's meaning, speaker intent and story function."
+        ],
+        "category": "dialect",
+        "change_id": "CHANGE_003",
+        "confidence": 0.0,
+        "evidence_ids": [],
+        "original_element": "Dialogue is not present in the structured extraction; consult the source screenplay for this character's exact lines.",
+        "proposed_change": "Keep the original dialogue and meaning unchanged. Queue the identified lines for a qualified Marwari language reviewer after phrase-level evidence is added.",
+        "rationale": "Phase 4 contains no source-verified Marwari phrase/meaning/context records. No Marwari wording has been generated.",
+        "scene_id": "SCENE_001",
+        "status": "rejected",
+        "target_id": "CHAR_001",
+        "target_type": "character",
+        "warnings": [
+          "Phrase-level Marwari evidence is not currently available in the cultural evidence pack.",
+          "Insufficient evidence for a culture-specific adaptation."
+        ]
+      },
+      {
+        "assumptions": [
+          "Any future dialect pass must preserve each line's meaning, speaker intent and story function."
+        ],
+        "category": "dialect",
+        "change_id": "CHANGE_004",
+        "confidence": 0.0,
+        "evidence_ids": [],
+        "original_element": "Dialogue is not present in the structured extraction; consult the source screenplay for this character's exact lines.",
+        "proposed_change": "Keep the original dialogue and meaning unchanged. Queue the identified lines for a qualified Marwari language reviewer after phrase-level evidence is added.",
+        "rationale": "Phase 4 contains no source-verified Marwari phrase/meaning/context records. No Marwari wording has been generated.",
+        "scene_id": "SCENE_001",
+        "status": "rejected",
+        "target_id": "CHAR_002",
+        "target_type": "character",
+        "warnings": [
+          "Phrase-level Marwari evidence is not currently available in the cultural evidence pack.",
+          "Insufficient evidence for a culture-specific adaptation."
+        ]
+      },
+      {
+        "assumptions": [],
+        "category": "costume",
+        "change_id": "CHANGE_005",
+        "confidence": 0.0,
+        "evidence_ids": [],
+        "original_element": "No costume is specified for Ravi (CHAR_001) in SCENE_001.",
+        "proposed_change": "Do not add a concrete costume yet. Ask a human reviewer for scene-specific clothing evidence before making a choice.",
+        "rationale": "The current clothing evidence is festival/craft-contextual and does not by itself justify inventing everyday rural clothing for this character.",
+        "scene_id": "SCENE_001",
+        "status": "rejected",
+        "target_id": "CHAR_001",
+        "target_type": "character",
+        "warnings": [
+          "Existing clothing evidence does not establish this character's everyday or scene-specific costume.",
+          "Insufficient evidence for a culture-specific adaptation."
+        ]
+      },
+      {
+        "assumptions": [],
+        "category": "costume",
+        "change_id": "CHANGE_006",
+        "confidence": 0.0,
+        "evidence_ids": [],
+        "original_element": "No costume is specified for Meena (CHAR_002) in SCENE_001.",
+        "proposed_change": "Do not add a concrete costume yet. Ask a human reviewer for scene-specific clothing evidence before making a choice.",
+        "rationale": "The current clothing evidence is festival/craft-contextual and does not by itself justify inventing everyday rural clothing for this character.",
+        "scene_id": "SCENE_001",
+        "status": "rejected",
+        "target_id": "CHAR_002",
+        "target_type": "character",
+        "warnings": [
+          "Existing clothing evidence does not establish this character's everyday or scene-specific costume.",
+          "Insufficient evidence for a culture-specific adaptation."
+        ]
+      },
+      {
+        "assumptions": [
+          "Any future dialect pass must preserve each line's meaning, speaker intent and story function."
+        ],
+        "category": "dialect",
+        "change_id": "CHANGE_007",
+        "confidence": 0.0,
+        "evidence_ids": [],
+        "original_element": "Dialogue is not present in the structured extraction; consult the source screenplay for this character's exact lines.",
+        "proposed_change": "Keep the original dialogue and meaning unchanged. Queue the identified lines for a qualified Marwari language reviewer after phrase-level evidence is added.",
+        "rationale": "Phase 4 contains no source-verified Marwari phrase/meaning/context records. No Marwari wording has been generated.",
+        "scene_id": "SCENE_002",
+        "status": "rejected",
+        "target_id": "CHAR_001",
+        "target_type": "character",
+        "warnings": [
+          "Phrase-level Marwari evidence is not currently available in the cultural evidence pack.",
+          "Insufficient evidence for a culture-specific adaptation."
+        ]
+      },
+      {
+        "assumptions": [
+          "Any future dialect pass must preserve each line's meaning, speaker intent and story function."
+        ],
+        "category": "dialect",
+        "change_id": "CHANGE_008",
+        "confidence": 0.0,
+        "evidence_ids": [],
+        "original_element": "Dialogue is not present in the structured extraction; consult the source screenplay for this character's exact lines.",
+        "proposed_change": "Keep the original dialogue and meaning unchanged. Queue the identified lines for a qualified Marwari language reviewer after phrase-level evidence is added.",
+        "rationale": "Phase 4 contains no source-verified Marwari phrase/meaning/context records. No Marwari wording has been generated.",
+        "scene_id": "SCENE_002",
+        "status": "rejected",
+        "target_id": "CHAR_002",
+        "target_type": "character",
+        "warnings": [
+          "Phrase-level Marwari evidence is not currently available in the cultural evidence pack.",
+          "Insufficient evidence for a culture-specific adaptation."
+        ]
+      },
+      {
+        "assumptions": [],
+        "category": "costume",
+        "change_id": "CHANGE_009",
+        "confidence": 0.0,
+        "evidence_ids": [],
+        "original_element": "No costume is specified for Ravi (CHAR_001) in SCENE_002.",
+        "proposed_change": "Do not add a concrete costume yet. Ask a human reviewer for scene-specific clothing evidence before making a choice.",
+        "rationale": "The current clothing evidence is festival/craft-contextual and does not by itself justify inventing everyday rural clothing for this character.",
+        "scene_id": "SCENE_002",
+        "status": "rejected",
+        "target_id": "CHAR_001",
+        "target_type": "character",
+        "warnings": [
+          "Existing clothing evidence does not establish this character's everyday or scene-specific costume.",
+          "Insufficient evidence for a culture-specific adaptation."
+        ]
+      },
+      {
+        "assumptions": [],
+        "category": "costume",
+        "change_id": "CHANGE_010",
+        "confidence": 0.0,
+        "evidence_ids": [],
+        "original_element": "No costume is specified for Meena (CHAR_002) in SCENE_002.",
+        "proposed_change": "Do not add a concrete costume yet. Ask a human reviewer for scene-specific clothing evidence before making a choice.",
+        "rationale": "The current clothing evidence is festival/craft-contextual and does not by itself justify inventing everyday rural clothing for this character.",
+        "scene_id": "SCENE_002",
+        "status": "rejected",
+        "target_id": "CHAR_002",
+        "target_type": "character",
+        "warnings": [
+          "Existing clothing evidence does not establish this character's everyday or scene-specific costume.",
+          "Insufficient evidence for a culture-specific adaptation."
+        ]
+      }
+    ],
+    "created_at": "2026-09-29T07:37:55.716419+00:00",
+    "culture": "Marwari",
+    "dialect": "Marwari",
+    "global_warnings": [
+      "This is a planning document only; screenplay dialogue, events, order, relationships and descriptions remain unchanged.",
+      "All adaptation changes require human review; none are automatically approved.",
+      "Phrase-level Marwari evidence is not currently available in the cultural evidence pack.",
+      "Evidence is Rajasthan-general rather than Marwar-specific."
+    ],
+    "plan_id": "PLAN_7e0998d005d641f28e7ef6cba2806be9",
+    "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+    "region": "Marwar / Jodhpur",
+    "script": "Devanagari",
+    "setting": "Rural",
+    "status": "rejected",
+    "unresolved_questions": [
+      "Which source-verified Marwari phrase forms and regional variants should a qualified language reviewer approve?",
+      "Does the portrayal of CHAR_001 require a locally reviewed social-context note? Do not infer a change from the character's name or identity.",
+      "Does the portrayal of CHAR_002 require a locally reviewed social-context note? Do not infer a change from the character's name or identity.",
+      "Source-verify dialect treatment for CHAR_001 in SCENE_001; retain the original dialogue until review.",
+      "Source-verify dialect treatment for CHAR_002 in SCENE_001; retain the original dialogue until review.",
+      "Source-verify dialect treatment for CHAR_001 in SCENE_002; retain the original dialogue until review.",
+      "Source-verify dialect treatment for CHAR_002 in SCENE_002; retain the original dialogue until review."
+    ],
+    "updated_at": "2026-09-29T11:34:08.171020+00:00",
+    "version": 2
+  },
+  "package": {
+    "adaptation_summary": {
+      "applied_changes": 0,
+      "approved_changes": 0,
+      "plan_id": "PLAN_7e0998d005d641f28e7ef6cba2806be9",
+      "plan_version": 2
+    },
+    "adapted_screenplay_reference": "ADAPT_CA9FEF13AAFF87AB",
+    "ai_usage_reference": "7e0998d005d641f28e7ef6cba2806be9:AI_USAGE",
+    "character_bible_references": [
+      "CHAR_001",
+      "CHAR_002"
+    ],
+    "continuity_report_reference": "CONT_615b0a6379bf",
+    "costume_bible_references": [],
+    "created_at": "2026-09-29T11:39:38.481655+00:00",
+    "cultural_evidence_summary": {
+      "evidence_count": 0,
+      "evidence_ids": [],
+      "source_count": 0
+    },
+    "culture": "Marwari",
+    "dialect": null,
+    "generated_visual_references": [
+      "ART_9F718FC2D0C5F2283D88",
+      "ART_6D9B8DFD2C1E29E12B5B"
+    ],
+    "limitations_reference": "7e0998d005d641f28e7ef6cba2806be9:LIMITATIONS",
+    "package_id": "PKG_2087b88d4873ca09",
+    "package_status": "ready",
+    "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+    "project_state_reference": "data\\projects\\7e0998d005d641f28e7ef6cba2806be9\\project.json",
+    "region": "Marwar / Jodhpur",
+    "scene_keyframe_references": [
+      "SCENE_001",
+      "SCENE_002"
+    ],
+    "script": null,
+    "setting": "Rural",
+    "source_screenplay_reference": "503e2e0468754844bbda06412069c194",
+    "title": "Untitled Screenplay",
+    "updated_at": "2026-09-29T11:39:38.481655+00:00",
+    "validation_status": "passed_with_warnings",
+    "version": 1
+  },
+  "project_state": {
+    "characters": [
+      {
+        "age": null,
+        "aliases": [],
+        "canonical_name": "Ravi",
+        "character_id": "CHAR_001",
+        "dialect": null,
+        "emotional_state": null,
+        "entrance_scene_id": "SCENE_001",
+        "exit_scene_id": null,
+        "personality": [],
+        "relationships": {},
+        "role": null,
+        "scene_ids": [
+          "SCENE_001",
+          "SCENE_002"
+        ]
+      },
+      {
+        "age": null,
+        "aliases": [],
+        "canonical_name": "Meena",
+        "character_id": "CHAR_002",
+        "dialect": null,
+        "emotional_state": null,
+        "entrance_scene_id": "SCENE_001",
+        "exit_scene_id": null,
+        "personality": [],
+        "relationships": {},
+        "role": null,
+        "scene_ids": [
+          "SCENE_001",
+          "SCENE_002"
+        ]
+      }
+    ],
+    "continuity_states": [
+      {
+        "carries": [
+          "Ravi carries old envelope"
+        ],
+        "changes": [],
+        "gains": [],
+        "injuries": [],
+        "knows": [],
+        "loses": [],
+        "prop_transfers": [
+          "Ravi transfers old envelope to Meena"
+        ],
+        "scene_id": "SCENE_001",
+        "wears": []
+      }
+    ],
+    "culture": null,
+    "dialect": null,
+    "locations": [
+      {
+        "aliases": [],
+        "canonical_name": "Courtyard",
+        "description": null,
+        "location_id": "LOC_001",
+        "scenes": [
+          "SCENE_001"
+        ],
+        "type": null
+      },
+      {
+        "aliases": [],
+        "canonical_name": "Market",
+        "description": null,
+        "location_id": "LOC_002",
+        "scenes": [
+          "SCENE_002"
+        ],
+        "type": null
+      }
+    ],
+    "normalization_warnings": [],
+    "production_elements": [
+      {
+        "category": "prop",
+        "description": null,
+        "element_id": "PROP_001",
+        "name": "old envelope",
+        "scenes": [
+          "SCENE_001"
+        ]
+      },
+      {
+        "category": "prop",
+        "description": null,
+        "element_id": "PROP_002",
+        "name": "old table",
+        "scenes": [
+          "SCENE_001"
+        ]
+      },
+      {
+        "category": "prop",
+        "description": null,
+        "element_id": "PROP_003",
+        "name": "letter",
+        "scenes": [
+          "SCENE_002"
+        ]
+      }
+    ],
+    "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+    "region": null,
+    "scenes": [
+      {
+        "character_ids": [
+          "CHAR_001",
+          "CHAR_002"
+        ],
+        "continuity_notes": [],
+        "date": null,
+        "dramatic_purpose": null,
+        "heading": "INT. COURTYARD - MORNING",
+        "int_ext": "INT",
+        "location": "Courtyard",
+        "mood": null,
+        "production_element_ids": [
+          "PROP_001",
+          "PROP_002"
+        ],
+        "scene_id": "SCENE_001",
+        "scene_number": 1,
+        "sub_location": null,
+        "summary": "RAVI enters the courtyard carrying an old envelope. RAVI I found this under the old table. MEENA What is it? Ravi gives the envelope to Meena.",
+        "time_of_day": "Morning",
+        "weather": null
+      },
+      {
+        "character_ids": [
+          "CHAR_001",
+          "CHAR_002"
+        ],
+        "continuity_notes": [],
+        "date": null,
+        "dramatic_purpose": null,
+        "heading": "EXT. MARKET - AFTERNOON",
+        "int_ext": "EXT",
+        "location": "Market",
+        "mood": null,
+        "production_element_ids": [
+          "PROP_003"
+        ],
+        "scene_id": "SCENE_002",
+        "scene_number": 2,
+        "sub_location": null,
+        "summary": "Ravi and Meena walk through the market. RAVI We need to find out who wrote this letter.",
+        "time_of_day": "Afternoon",
+        "weather": null
+      }
+    ],
+    "screenplay_id": "503e2e0468754844bbda06412069c194",
+    "script": null,
+    "setting": null,
+    "source_filename": null,
+    "state_status": "extracted",
+    "title": "Untitled Screenplay",
+    "updated_at": "2026-09-29T07:37:55.716419+00:00",
+    "version": 1
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "artifacts": [
+    {
+      "artifact_id": "ART_9F718FC2D0C5F2283D88",
+      "asset_type": "character",
+      "continuity_status": "valid",
+      "created_at": "2026-09-29T11:34:08.171020+00:00",
+      "image_metadata": {
+        "approved_prompt_hash": "271228b4e421fca1c752a7b4df1ce7d4d0a608b76535d5729a50d0ef0a958954",
+        "evidence_ids": [],
+        "expected_character_ids": [
+          "CHAR_001"
+        ],
+        "expected_costume_ids": [],
+        "expected_scene_ids": [
+          "SCENE_001",
+          "SCENE_002"
+        ],
+        "identity_analysis": {
+          "performed": false
+        },
+        "label": "MOCK PLACEHOLDER — NOT A REAL GENERATED IMAGE",
+        "media_format": "svg",
+        "mock_placeholder": true,
+        "not_a_real_image": true,
+        "representation": "svg",
+        "scene_id": null,
+        "source_entity_id": "CHAR_001",
+        "visual_spec_version": 1
+      },
+      "image_path": "visuals/ART_9F718FC2D0C5F2283D88.svg",
+      "model_name": "mock-placeholder-v1",
+      "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+      "prompt_hash": "271228b4e421fca1c752a7b4df1ce7d4d0a608b76535d5729a50d0ef0a958954",
+      "provider": "mock",
+      "request_id": "VREQ_7EC5BA83E3B4CD99C5FC",
+      "scene_id": null,
+      "source_entity_id": "CHAR_001",
+      "status": "generated",
+      "warnings": [
+        "Mock provider created a labeled placeholder only; no image-generation model was called."
+      ]
+    },
+    {
+      "artifact_id": "ART_6D9B8DFD2C1E29E12B5B",
+      "asset_type": "scene_keyframe",
+      "continuity_status": "valid",
+      "created_at": "2026-09-29T11:34:08.171020+00:00",
+      "image_metadata": {
+        "approved_prompt_hash": "5ad4387a76a839ed2fe2710a5165e180972117b1f2db241722662d124d3cc139",
+        "evidence_ids": [],
+        "expected_character_ids": [
+          "CHAR_001",
+          "CHAR_002"
+        ],
+        "expected_costume_ids": [],
+        "expected_scene_ids": [
+          "SCENE_001"
+        ],
+        "identity_analysis": {
+          "performed": false
+        },
+        "label": "MOCK PLACEHOLDER — NOT A REAL GENERATED IMAGE",
+        "media_format": "svg",
+        "mock_placeholder": true,
+        "not_a_real_image": true,
+        "representation": "svg",
+        "scene_id": "SCENE_001",
+        "source_entity_id": "SCENE_001",
+        "visual_spec_version": 1
+      },
+      "image_path": "visuals/ART_6D9B8DFD2C1E29E12B5B.svg",
+      "model_name": "mock-placeholder-v1",
+      "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+      "prompt_hash": "5ad4387a76a839ed2fe2710a5165e180972117b1f2db241722662d124d3cc139",
+      "provider": "mock",
+      "request_id": "VREQ_AE03CF9256B975C1A8F2",
+      "scene_id": "SCENE_001",
+      "source_entity_id": "SCENE_001",
+      "status": "generated",
+      "warnings": [
+        "Mock provider created a labeled placeholder only; no image-generation model was called."
+      ]
+    }
+  ],
+  "batch_id": "VBATCH_FE5A729A2A154CCC8B0D",
+  "continuity_result": {
+    "checked_artifact_count": 2,
+    "errors": [],
+    "failed_artifact_count": 0,
+    "valid": true,
+    "warnings": [
+      "Mock artifact metadata checks do not verify facial identity or pixel-level visual similarity."
+    ]
+  },
+  "created_at": "2026-09-29T11:34:08.171020+00:00",
+  "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+  "requests": [
+    {
+      "asset_type": "character",
+      "created_at": "2026-09-29T11:34:08.171020+00:00",
+      "evidence_ids": [],
+      "expected_character_ids": [
+        "CHAR_001"
+      ],
+      "expected_costume_ids": [],
+      "expected_scene_ids": [
+        "SCENE_001",
+        "SCENE_002"
+      ],
+      "negative_prompt": "Preserve canonical character identity; do not invent cultural markers, text, or watermarks.",
+      "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+      "prompt": "Character visual bible (use only listed values; null means unknown):\n{\n  \"accessories\": [],\n  \"age_description\": null,\n  \"baseline_wardrobe\": null,\n  \"body_description\": null,\n  \"canonical_name\": \"Ravi\",\n  \"character_id\": \"CHAR_001\",\n  \"continuity_notes\": [\n    \"Use canonical identity CHAR_001 consistently in every referenced scene.\"\n  ],\n  \"cultural_markers\": [],\n  \"expression_baseline\": null,\n  \"face_identity\": null,\n  \"grooming\": null,\n  \"hair\": null,\n  \"personality_visual_cues\": [],\n  \"role\": null\n}",
+      "prompt_hash": "271228b4e421fca1c752a7b4df1ce7d4d0a608b76535d5729a50d0ef0a958954",
+      "provider": "mock",
+      "request_id": "VREQ_7EC5BA83E3B4CD99C5FC",
+      "scene_id": null,
+      "source_entity_id": "CHAR_001",
+      "status": "generated",
+      "visual_spec_version": 1,
+      "warnings": []
+    },
+    {
+      "asset_type": "character",
+      "created_at": "2026-09-29T11:34:08.171020+00:00",
+      "evidence_ids": [],
+      "expected_character_ids": [
+        "CHAR_002"
+      ],
+      "expected_costume_ids": [],
+      "expected_scene_ids": [
+        "SCENE_001",
+        "SCENE_002"
+      ],
+      "negative_prompt": "Preserve canonical character identity; do not invent cultural markers, text, or watermarks.",
+      "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+      "prompt": "Character visual bible (use only listed values; null means unknown):\n{\n  \"accessories\": [],\n  \"age_description\": null,\n  \"baseline_wardrobe\": null,\n  \"body_description\": null,\n  \"canonical_name\": \"Meena\",\n  \"character_id\": \"CHAR_002\",\n  \"continuity_notes\": [\n    \"Use canonical identity CHAR_002 consistently in every referenced scene.\"\n  ],\n  \"cultural_markers\": [],\n  \"expression_baseline\": null,\n  \"face_identity\": null,\n  \"grooming\": null,\n  \"hair\": null,\n  \"personality_visual_cues\": [],\n  \"role\": null\n}",
+      "prompt_hash": "5b7d2714c3ed6ba4c1fe5c674de7f6089a1381c6f654b166f5963b09ed9143d4",
+      "provider": "mock",
+      "request_id": "VREQ_E7CBF1395C61B84CBB67",
+      "scene_id": null,
+      "source_entity_id": "CHAR_002",
+      "status": "pending",
+      "visual_spec_version": 1,
+      "warnings": []
+    },
+    {
+      "asset_type": "scene_keyframe",
+      "created_at": "2026-09-29T11:34:08.171020+00:00",
+      "evidence_ids": [],
+      "expected_character_ids": [
+        "CHAR_001",
+        "CHAR_002"
+      ],
+      "expected_costume_ids": [],
+      "expected_scene_ids": [
+        "SCENE_001"
+      ],
+      "negative_prompt": "No unsupported modern clothing; no generic fantasy architecture; no invented or incorrect cultural markers; preserve the same character identity and appearance; no duplicate people; no text, captions, logos, or watermarks; avoid anachronistic objects unless explicitly present in the screenplay.",
+      "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+      "prompt": "Subject: Screenplay scene 1: RAVI enters the courtyard carrying an old envelope. RAVI I found this under the old table. MEENA What is it? Ravi gives the envelope to Meena.\nCharacters: Ravi (CHAR_001), Meena (CHAR_002)\nAppearance: follow the character bibles; unspecified traits remain unknown\nCostume: follow referenced approved costume variants only; otherwise unspecified\nLocation: Courtyard\nArchitecture: unspecified\nEnvironment: unspecified; other environmental details unspecified\nProps: old envelope, old table\nLighting: unspecified\nCamera framing: unspecified\nComposition: unspecified\nMood: unspecified\nTime: Morning\nCultural visual details (approved and evidence-linked): none specified",
+      "prompt_hash": "5ad4387a76a839ed2fe2710a5165e180972117b1f2db241722662d124d3cc139",
+      "provider": "mock",
+      "request_id": "VREQ_AE03CF9256B975C1A8F2",
+      "scene_id": "SCENE_001",
+      "source_entity_id": "SCENE_001",
+      "status": "generated",
+      "visual_spec_version": 1,
+      "warnings": []
+    },
+    {
+      "asset_type": "scene_keyframe",
+      "created_at": "2026-09-29T11:34:08.171020+00:00",
+      "evidence_ids": [],
+      "expected_character_ids": [
+        "CHAR_001",
+        "CHAR_002"
+      ],
+      "expected_costume_ids": [],
+      "expected_scene_ids": [
+        "SCENE_002"
+      ],
+      "negative_prompt": "No unsupported modern clothing; no generic fantasy architecture; no invented or incorrect cultural markers; preserve the same character identity and appearance; no duplicate people; no text, captions, logos, or watermarks; avoid anachronistic objects unless explicitly present in the screenplay.",
+      "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+      "prompt": "Subject: Screenplay scene 2: Ravi and Meena walk through the market. RAVI We need to find out who wrote this letter.\nCharacters: Ravi (CHAR_001), Meena (CHAR_002)\nAppearance: follow the character bibles; unspecified traits remain unknown\nCostume: follow referenced approved costume variants only; otherwise unspecified\nLocation: Market\nArchitecture: unspecified\nEnvironment: unspecified; other environmental details unspecified\nProps: letter\nLighting: unspecified\nCamera framing: unspecified\nComposition: unspecified\nMood: unspecified\nTime: Afternoon\nCultural visual details (approved and evidence-linked): none specified",
+      "prompt_hash": "a77844c343d46985bb00a18271233ad558ed924ab3410780e0522164ac4ef948",
+      "provider": "mock",
+      "request_id": "VREQ_2B458AAB880FB6D4FECC",
+      "scene_id": "SCENE_002",
+      "source_entity_id": "SCENE_002",
+      "status": "pending",
+      "visual_spec_version": 1,
+      "warnings": []
+    }
+  ],
+  "status": "partial",
+  "updated_at": "2026-09-29T11:39:38.426067+00:00",
+  "version": 4,
+  "warnings": [
+    "Mock artifact metadata checks do not verify facial identity or pixel-level visual similarity."
+  ]
+}

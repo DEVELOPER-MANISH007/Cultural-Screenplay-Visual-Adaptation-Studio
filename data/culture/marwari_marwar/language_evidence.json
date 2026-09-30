@@ -1,0 +1,15 @@
+[
+  {
+    "confidence": 0.93,
+    "context": null,
+    "culture": "Marwari",
+    "dialect": "Marwari",
+    "language_evidence_id": "LANG_001",
+    "meaning": null,
+    "notes": "The source confirms Marwari is named among Rajasthani varieties but provides no source-backed phrase/meaning/context suitable for dialogue.",
+    "phrase": null,
+    "regional_scope": "Rajasthan-general",
+    "source_id": "SRC_002",
+    "status": "insufficient_evidence"
+  }
+]

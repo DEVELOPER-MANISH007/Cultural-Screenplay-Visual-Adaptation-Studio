@@ -1,0 +1,73 @@
+[
+  {
+    "applied_change_ids": [],
+    "architecture": null,
+    "atmosphere": null,
+    "camera_framing": null,
+    "character_visual_refs": [
+      "CHAR_001",
+      "CHAR_002"
+    ],
+    "characters_present": [
+      "CHAR_001",
+      "CHAR_002"
+    ],
+    "composition": null,
+    "costume_visual_refs": [],
+    "cultural_details": [],
+    "environment": null,
+    "evidence_ids": [],
+    "generation_prompt": "Subject: Screenplay scene 1: RAVI enters the courtyard carrying an old envelope. RAVI I found this under the old table. MEENA What is it? Ravi gives the envelope to Meena.\nCharacters: Ravi (CHAR_001), Meena (CHAR_002)\nAppearance: follow the character bibles; unspecified traits remain unknown\nCostume: follow referenced approved costume variants only; otherwise unspecified\nLocation: Courtyard\nArchitecture: unspecified\nEnvironment: unspecified; other environmental details unspecified\nProps: old envelope, old table\nLighting: unspecified\nCamera framing: unspecified\nComposition: unspecified\nMood: unspecified\nTime: Morning\nCultural visual details (approved and evidence-linked): none specified",
+    "lighting": null,
+    "location": "Courtyard",
+    "mood": null,
+    "negative_prompt": "No unsupported modern clothing; no generic fantasy architecture; no invented or incorrect cultural markers; preserve the same character identity and appearance; no duplicate people; no text, captions, logos, or watermarks; avoid anachronistic objects unless explicitly present in the screenplay.",
+    "props": [
+      "old envelope",
+      "old table"
+    ],
+    "scene_id": "SCENE_001",
+    "scene_number": 1,
+    "time_of_day": "Morning",
+    "warnings": [
+      "Architecture and environmental specifics are unspecified; use only location and environment stated in the screenplay.",
+      "Lighting, composition and camera framing are unspecified; do not add culture-specific assumptions."
+    ],
+    "weather": null
+  },
+  {
+    "applied_change_ids": [],
+    "architecture": null,
+    "atmosphere": null,
+    "camera_framing": null,
+    "character_visual_refs": [
+      "CHAR_001",
+      "CHAR_002"
+    ],
+    "characters_present": [
+      "CHAR_001",
+      "CHAR_002"
+    ],
+    "composition": null,
+    "costume_visual_refs": [],
+    "cultural_details": [],
+    "environment": null,
+    "evidence_ids": [],
+    "generation_prompt": "Subject: Screenplay scene 2: Ravi and Meena walk through the market. RAVI We need to find out who wrote this letter.\nCharacters: Ravi (CHAR_001), Meena (CHAR_002)\nAppearance: follow the character bibles; unspecified traits remain unknown\nCostume: follow referenced approved costume variants only; otherwise unspecified\nLocation: Market\nArchitecture: unspecified\nEnvironment: unspecified; other environmental details unspecified\nProps: letter\nLighting: unspecified\nCamera framing: unspecified\nComposition: unspecified\nMood: unspecified\nTime: Afternoon\nCultural visual details (approved and evidence-linked): none specified",
+    "lighting": null,
+    "location": "Market",
+    "mood": null,
+    "negative_prompt": "No unsupported modern clothing; no generic fantasy architecture; no invented or incorrect cultural markers; preserve the same character identity and appearance; no duplicate people; no text, captions, logos, or watermarks; avoid anachronistic objects unless explicitly present in the screenplay.",
+    "props": [
+      "letter"
+    ],
+    "scene_id": "SCENE_002",
+    "scene_number": 2,
+    "time_of_day": "Afternoon",
+    "warnings": [
+      "Architecture and environmental specifics are unspecified; use only location and environment stated in the screenplay.",
+      "Lighting, composition and camera framing are unspecified; do not add culture-specific assumptions."
+    ],
+    "weather": null
+  }
+]

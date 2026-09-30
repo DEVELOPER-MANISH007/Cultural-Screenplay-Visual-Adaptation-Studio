@@ -1,0 +1,243 @@
+{
+  "changes": [
+    {
+      "assumptions": [],
+      "category": "character",
+      "change_id": "CHANGE_001",
+      "confidence": 0.0,
+      "evidence_ids": [],
+      "original_element": "CHAR_001: name=Ravi; age=unspecified; role=unspecified; relationships={}; personality=[]; emotional_state=unspecified",
+      "proposed_change": "Preserve the canonical identity, name, relationships, personality cues and emotional arc. Request human review before any culture-specific characterization.",
+      "rationale": "The recurring character is present in the source screenplay. No supplied evidence justifies changing identity or relationships.",
+      "scene_id": "SCENE_001",
+      "status": "rejected",
+      "target_id": "CHAR_001",
+      "target_type": "character",
+      "warnings": [
+        "Character identity and relationships must not be changed to make the screenplay appear more culturally specific.",
+        "Insufficient evidence for a culture-specific adaptation."
+      ]
+    },
+    {
+      "assumptions": [],
+      "category": "character",
+      "change_id": "CHANGE_002",
+      "confidence": 0.0,
+      "evidence_ids": [],
+      "original_element": "CHAR_002: name=Meena; age=unspecified; role=unspecified; relationships={}; personality=[]; emotional_state=unspecified",
+      "proposed_change": "Preserve the canonical identity, name, relationships, personality cues and emotional arc. Request human review before any culture-specific characterization.",
+      "rationale": "The recurring character is present in the source screenplay. No supplied evidence justifies changing identity or relationships.",
+      "scene_id": "SCENE_001",
+      "status": "rejected",
+      "target_id": "CHAR_002",
+      "target_type": "character",
+      "warnings": [
+        "Character identity and relationships must not be changed to make the screenplay appear more culturally specific.",
+        "Insufficient evidence for a culture-specific adaptation."
+      ]
+    },
+    {
+      "assumptions": [
+        "Any future dialect pass must preserve each line's meaning, speaker intent and story function."
+      ],
+      "category": "dialect",
+      "change_id": "CHANGE_003",
+      "confidence": 0.0,
+      "evidence_ids": [],
+      "original_element": "Dialogue is not present in the structured extraction; consult the source screenplay for this character's exact lines.",
+      "proposed_change": "Keep the original dialogue and meaning unchanged. Queue the identified lines for a qualified Marwari language reviewer after phrase-level evidence is added.",
+      "rationale": "Phase 4 contains no source-verified Marwari phrase/meaning/context records. No Marwari wording has been generated.",
+      "scene_id": "SCENE_001",
+      "status": "rejected",
+      "target_id": "CHAR_001",
+      "target_type": "character",
+      "warnings": [
+        "Phrase-level Marwari evidence is not currently available in the cultural evidence pack.",
+        "Insufficient evidence for a culture-specific adaptation."
+      ]
+    },
+    {
+      "assumptions": [
+        "Any future dialect pass must preserve each line's meaning, speaker intent and story function."
+      ],
+      "category": "dialect",
+      "change_id": "CHANGE_004",
+      "confidence": 0.0,
+      "evidence_ids": [],
+      "original_element": "Dialogue is not present in the structured extraction; consult the source screenplay for this character's exact lines.",
+      "proposed_change": "Keep the original dialogue and meaning unchanged. Queue the identified lines for a qualified Marwari language reviewer after phrase-level evidence is added.",
+      "rationale": "Phase 4 contains no source-verified Marwari phrase/meaning/context records. No Marwari wording has been generated.",
+      "scene_id": "SCENE_001",
+      "status": "rejected",
+      "target_id": "CHAR_002",
+      "target_type": "character",
+      "warnings": [
+        "Phrase-level Marwari evidence is not currently available in the cultural evidence pack.",
+        "Insufficient evidence for a culture-specific adaptation."
+      ]
+    },
+    {
+      "assumptions": [],
+      "category": "costume",
+      "change_id": "CHANGE_005",
+      "confidence": 0.0,
+      "evidence_ids": [],
+      "original_element": "No costume is specified for Ravi (CHAR_001) in SCENE_001.",
+      "proposed_change": "Do not add a concrete costume yet. Ask a human reviewer for scene-specific clothing evidence before making a choice.",
+      "rationale": "The current clothing evidence is festival/craft-contextual and does not by itself justify inventing everyday rural clothing for this character.",
+      "scene_id": "SCENE_001",
+      "status": "rejected",
+      "target_id": "CHAR_001",
+      "target_type": "character",
+      "warnings": [
+        "Existing clothing evidence does not establish this character's everyday or scene-specific costume.",
+        "Insufficient evidence for a culture-specific adaptation."
+      ]
+    },
+    {
+      "assumptions": [],
+      "category": "costume",
+      "change_id": "CHANGE_006",
+      "confidence": 0.0,
+      "evidence_ids": [],
+      "original_element": "No costume is specified for Meena (CHAR_002) in SCENE_001.",
+      "proposed_change": "Do not add a concrete costume yet. Ask a human reviewer for scene-specific clothing evidence before making a choice.",
+      "rationale": "The current clothing evidence is festival/craft-contextual and does not by itself justify inventing everyday rural clothing for this character.",
+      "scene_id": "SCENE_001",
+      "status": "rejected",
+      "target_id": "CHAR_002",
+      "target_type": "character",
+      "warnings": [
+        "Existing clothing evidence does not establish this character's everyday or scene-specific costume.",
+        "Insufficient evidence for a culture-specific adaptation."
+      ]
+    },
+    {
+      "assumptions": [
+        "Any future dialect pass must preserve each line's meaning, speaker intent and story function."
+      ],
+      "category": "dialect",
+      "change_id": "CHANGE_007",
+      "confidence": 0.0,
+      "evidence_ids": [],
+      "original_element": "Dialogue is not present in the structured extraction; consult the source screenplay for this character's exact lines.",
+      "proposed_change": "Keep the original dialogue and meaning unchanged. Queue the identified lines for a qualified Marwari language reviewer after phrase-level evidence is added.",
+      "rationale": "Phase 4 contains no source-verified Marwari phrase/meaning/context records. No Marwari wording has been generated.",
+      "scene_id": "SCENE_002",
+      "status": "rejected",
+      "target_id": "CHAR_001",
+      "target_type": "character",
+      "warnings": [
+        "Phrase-level Marwari evidence is not currently available in the cultural evidence pack.",
+        "Insufficient evidence for a culture-specific adaptation."
+      ]
+    },
+    {
+      "assumptions": [
+        "Any future dialect pass must preserve each line's meaning, speaker intent and story function."
+      ],
+      "category": "dialect",
+      "change_id": "CHANGE_008",
+      "confidence": 0.0,
+      "evidence_ids": [],
+      "original_element": "Dialogue is not present in the structured extraction; consult the source screenplay for this character's exact lines.",
+      "proposed_change": "Keep the original dialogue and meaning unchanged. Queue the identified lines for a qualified Marwari language reviewer after phrase-level evidence is added.",
+      "rationale": "Phase 4 contains no source-verified Marwari phrase/meaning/context records. No Marwari wording has been generated.",
+      "scene_id": "SCENE_002",
+      "status": "rejected",
+      "target_id": "CHAR_002",
+      "target_type": "character",
+      "warnings": [
+        "Phrase-level Marwari evidence is not currently available in the cultural evidence pack.",
+        "Insufficient evidence for a culture-specific adaptation."
+      ]
+    },
+    {
+      "assumptions": [],
+      "category": "costume",
+      "change_id": "CHANGE_009",
+      "confidence": 0.0,
+      "evidence_ids": [],
+      "original_element": "No costume is specified for Ravi (CHAR_001) in SCENE_002.",
+      "proposed_change": "Do not add a concrete costume yet. Ask a human reviewer for scene-specific clothing evidence before making a choice.",
+      "rationale": "The current clothing evidence is festival/craft-contextual and does not by itself justify inventing everyday rural clothing for this character.",
+      "scene_id": "SCENE_002",
+      "status": "rejected",
+      "target_id": "CHAR_001",
+      "target_type": "character",
+      "warnings": [
+        "Existing clothing evidence does not establish this character's everyday or scene-specific costume.",
+        "Insufficient evidence for a culture-specific adaptation."
+      ]
+    },
+    {
+      "assumptions": [],
+      "category": "costume",
+      "change_id": "CHANGE_010",
+      "confidence": 0.0,
+      "evidence_ids": [],
+      "original_element": "No costume is specified for Meena (CHAR_002) in SCENE_002.",
+      "proposed_change": "Do not add a concrete costume yet. Ask a human reviewer for scene-specific clothing evidence before making a choice.",
+      "rationale": "The current clothing evidence is festival/craft-contextual and does not by itself justify inventing everyday rural clothing for this character.",
+      "scene_id": "SCENE_002",
+      "status": "rejected",
+      "target_id": "CHAR_002",
+      "target_type": "character",
+      "warnings": [
+        "Existing clothing evidence does not establish this character's everyday or scene-specific costume.",
+        "Insufficient evidence for a culture-specific adaptation."
+      ]
+    },
+    {
+      "assumptions": [
+        "Jodhpur market context was explicitly provided by the human producer; it was not inferred from the screenplay.",
+        "Bandhej fabric appears only as background merchandise for sale; it is not worn by Ravi or Meena."
+      ],
+      "category": "production_design",
+      "change_id": "CHANGE_011",
+      "confidence": 0.94,
+      "evidence_ids": [
+        "EVID_005"
+      ],
+      "original_element": "Ravi and Meena walk through the market.",
+      "proposed_change": "Add restrained background merchandise detail showing bandhej fabric being sold in Jodhpur market.",
+      "rationale": "EVID_005 supports tie-and-dye bandhej fabric as a textile available for purchase in Jodhpur. The Jodhpur market location is an explicit human-provided production-context decision, not inferred from the screenplay. This restrained background merchandise detail leaves the scene action and dramatic purpose unchanged.",
+      "scene_id": "SCENE_002",
+      "status": "pending",
+      "target_id": "SCENE_002",
+      "target_type": "scene",
+      "warnings": [
+        "Do not use festival evidence for this ordinary market scene.",
+        "Do not change Ravi or Meena clothing, dialogue, character action, dramatic purpose, or scene order.",
+        "Do not add music, dance, rituals, or food.",
+        "Explicit human approval is required before Phase 6 can apply this proposal."
+      ]
+    }
+  ],
+  "created_at": "2026-09-29T07:37:55.716419+00:00",
+  "culture": "Marwari",
+  "dialect": "Marwari",
+  "global_warnings": [
+    "This is a planning document only; screenplay dialogue, events, order, relationships and descriptions remain unchanged.",
+    "All adaptation changes require human review; none are automatically approved.",
+    "Phrase-level Marwari evidence is not currently available in the cultural evidence pack.",
+    "Evidence is Rajasthan-general rather than Marwar-specific."
+  ],
+  "plan_id": "PLAN_7e0998d005d641f28e7ef6cba2806be9",
+  "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+  "region": "Marwar / Jodhpur",
+  "script": "Devanagari",
+  "setting": "Rural",
+  "status": "pending_review",
+  "unresolved_questions": [
+    "Which source-verified Marwari phrase forms and regional variants should a qualified language reviewer approve?",
+    "Does the portrayal of CHAR_001 require a locally reviewed social-context note? Do not infer a change from the character's name or identity.",
+    "Does the portrayal of CHAR_002 require a locally reviewed social-context note? Do not infer a change from the character's name or identity.",
+    "Source-verify dialect treatment for CHAR_001 in SCENE_001; retain the original dialogue until review.",
+    "Source-verify dialect treatment for CHAR_002 in SCENE_001; retain the original dialogue until review.",
+    "Source-verify dialect treatment for CHAR_001 in SCENE_002; retain the original dialogue until review.",
+    "Source-verify dialect treatment for CHAR_002 in SCENE_002; retain the original dialogue until review."
+  ],
+  "updated_at": "2026-09-29T12:40:26.181860+00:00",
+  "version": 3
+}

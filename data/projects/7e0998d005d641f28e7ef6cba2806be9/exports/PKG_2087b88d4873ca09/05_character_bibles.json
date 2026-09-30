@@ -1,0 +1,48 @@
+[
+  {
+    "accessories": [],
+    "age_description": null,
+    "applied_change_ids": [],
+    "baseline_wardrobe": null,
+    "body_description": null,
+    "canonical_name": "Ravi",
+    "character_id": "CHAR_001",
+    "continuity_notes": [
+      "Use canonical identity CHAR_001 consistently in every referenced scene."
+    ],
+    "cultural_markers": [],
+    "evidence_ids": [],
+    "expression_baseline": null,
+    "face_identity": null,
+    "grooming": null,
+    "hair": null,
+    "personality_visual_cues": [],
+    "role": null,
+    "warnings": [
+      "Face, body, hair, grooming and baseline wardrobe are unspecified by the source; do not infer cultural appearance."
+    ]
+  },
+  {
+    "accessories": [],
+    "age_description": null,
+    "applied_change_ids": [],
+    "baseline_wardrobe": null,
+    "body_description": null,
+    "canonical_name": "Meena",
+    "character_id": "CHAR_002",
+    "continuity_notes": [
+      "Use canonical identity CHAR_002 consistently in every referenced scene."
+    ],
+    "cultural_markers": [],
+    "evidence_ids": [],
+    "expression_baseline": null,
+    "face_identity": null,
+    "grooming": null,
+    "hair": null,
+    "personality_visual_cues": [],
+    "role": null,
+    "warnings": [
+      "Face, body, hair, grooming and baseline wardrobe are unspecified by the source; do not infer cultural appearance."
+    ]
+  }
+]

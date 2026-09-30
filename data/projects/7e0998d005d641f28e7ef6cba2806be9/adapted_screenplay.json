@@ -1,0 +1,47 @@
+{
+  "adaptation_id": "ADAPT_CA9FEF13AAFF87AB",
+  "adapted_screenplay_text": "INT. COURTYARD - MORNING\n\nRAVI enters the courtyard carrying an old envelope.\n\nRAVI\nI found this under the old table.\n\nMEENA\nWhat is it?\n\nRavi gives the envelope to Meena.\n\nEXT. MARKET - AFTERNOON\n\nRavi and Meena walk through the market.\n\nRAVI\nWe need to find out who wrote this letter.",
+  "applied_change_ids": [],
+  "assumptions": [],
+  "blocked_change_ids": [],
+  "created_at": "2026-09-29T11:34:08.171020+00:00",
+  "culture": "Marwari",
+  "dialect": "Marwari",
+  "evidence_ids": [],
+  "original_screenplay_text": "INT. COURTYARD - MORNING\n\nRAVI enters the courtyard carrying an old envelope.\n\nRAVI\nI found this under the old table.\n\nMEENA\nWhat is it?\n\nRavi gives the envelope to Meena.\n\nEXT. MARKET - AFTERNOON\n\nRavi and Meena walk through the market.\n\nRAVI\nWe need to find out who wrote this letter.",
+  "plan_id": "PLAN_7e0998d005d641f28e7ef6cba2806be9",
+  "plan_version": 2,
+  "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+  "region": "Marwar / Jodhpur",
+  "scenes": [
+    {
+      "adapted_heading": "INT. COURTYARD - MORNING",
+      "adapted_text": "INT. COURTYARD - MORNING\n\nRAVI enters the courtyard carrying an old envelope.\n\nRAVI\nI found this under the old table.\n\nMEENA\nWhat is it?\n\nRavi gives the envelope to Meena.\n\n",
+      "applied_change_ids": [],
+      "evidence_ids": [],
+      "original_heading": "INT. COURTYARD - MORNING",
+      "original_text": "INT. COURTYARD - MORNING\n\nRAVI enters the courtyard carrying an old envelope.\n\nRAVI\nI found this under the old table.\n\nMEENA\nWhat is it?\n\nRavi gives the envelope to Meena.\n\n",
+      "scene_id": "SCENE_001",
+      "scene_number": 1,
+      "warnings": []
+    },
+    {
+      "adapted_heading": "EXT. MARKET - AFTERNOON",
+      "adapted_text": "EXT. MARKET - AFTERNOON\n\nRavi and Meena walk through the market.\n\nRAVI\nWe need to find out who wrote this letter.",
+      "applied_change_ids": [],
+      "evidence_ids": [],
+      "original_heading": "EXT. MARKET - AFTERNOON",
+      "original_text": "EXT. MARKET - AFTERNOON\n\nRavi and Meena walk through the market.\n\nRAVI\nWe need to find out who wrote this letter.",
+      "scene_id": "SCENE_002",
+      "scene_number": 2,
+      "warnings": []
+    }
+  ],
+  "setting": "Rural",
+  "source_screenplay_id": "503e2e0468754844bbda06412069c194",
+  "updated_at": "2026-09-29T11:34:08.171020+00:00",
+  "warnings": [
+    "Mock adapter output uses visible annotations to demonstrate approved changes; it is not polished literary rewriting.",
+    "10 pending, rejected, or needs-revision change(s) were not applied."
+  ]
+}

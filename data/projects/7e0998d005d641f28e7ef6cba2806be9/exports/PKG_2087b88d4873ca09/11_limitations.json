@@ -1,0 +1,146 @@
+{
+  "generated_at": "2026-09-29T11:39:38.481655+00:00",
+  "items": [
+    {
+      "detail": "The development mock provider produces labeled placeholder media, not cinematic images.",
+      "limitation_id": "LIM_MOCK_VISUAL",
+      "related_phase": "Phase 8",
+      "status": "unresolved",
+      "title": "Mock visuals are placeholders"
+    },
+    {
+      "detail": "Visual checks validate structured metadata and references; they do not compare faces or image pixels.",
+      "limitation_id": "LIM_NO_CV",
+      "related_phase": "Phase 8",
+      "status": "unresolved",
+      "title": "No computer-vision similarity verification"
+    },
+    {
+      "detail": "The cultural pack is a concise local evidence set, not exhaustive research; source scope and unresolved claims remain explicit.",
+      "limitation_id": "LIM_CURATED",
+      "related_phase": "Phase 4",
+      "status": "unresolved",
+      "title": "Cultural evidence is locally curated"
+    },
+    {
+      "detail": "Research evidence is loaded from the local curated store; the application does not fetch sources during export.",
+      "limitation_id": "LIM_NO_LIVE_RESEARCH",
+      "related_phase": "Phase 4",
+      "status": "unresolved",
+      "title": "No live research provider is configured"
+    },
+    {
+      "detail": "Evidence EVID_004 is partially_supported: A Rajasthan Tourism account of the Marwar Festival in Jodhpur presents Jodhpuri safas and bandhini dupattas as festival clothing.",
+      "limitation_id": "UNRES_001",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Evidence EVID_007 is partially_supported: Rajasthan Tourism describes Osian near Jodhpur with temple ruins, a stepwell, and a camel-ride/sunset viewpoint.",
+      "limitation_id": "UNRES_002",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Evidence EVID_008 is partially_supported: Rajasthan Tourism says Khejri trees are prominent in western Rajasthan and identifies Khejrli village near Jodhpur with the tree's name.",
+      "limitation_id": "UNRES_003",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Evidence EVID_009 is partially_supported: Rajasthan Tourism describes the Marwar Festival in Jodhpur as featuring folk music and songs honoring former rulers of Marwar.",
+      "limitation_id": "UNRES_004",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Evidence EVID_010 is partially_supported: Rajasthan Tourism describes Ghoomar performances at Mandore Garden during its Marwar Festival account.",
+      "limitation_id": "UNRES_005",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Evidence EVID_011 is partially_supported: Rajasthan Tourism describes Toran-Bandan as a wedding custom in which a mounted groom touches a floral decoration over the bride's doorway.",
+      "limitation_id": "UNRES_006",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Evidence EVID_012 is partially_supported: Rajasthan Foundation lists bajra, gram flour, corn, barley, and dairy products among common ingredients in Rajasthan cuisine.",
+      "limitation_id": "UNRES_007",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Visual request VREQ_E7CBF1395C61B84CBB67 is pending.",
+      "limitation_id": "UNRES_008",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Visual request VREQ_2B458AAB880FB6D4FECC is pending.",
+      "limitation_id": "UNRES_009",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Which source-verified Marwari phrase forms and regional variants should a qualified language reviewer approve?",
+      "limitation_id": "UNRES_010",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Does the portrayal of CHAR_001 require a locally reviewed social-context note? Do not infer a change from the character's name or identity.",
+      "limitation_id": "UNRES_011",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Does the portrayal of CHAR_002 require a locally reviewed social-context note? Do not infer a change from the character's name or identity.",
+      "limitation_id": "UNRES_012",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Source-verify dialect treatment for CHAR_001 in SCENE_001; retain the original dialogue until review.",
+      "limitation_id": "UNRES_013",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Source-verify dialect treatment for CHAR_002 in SCENE_001; retain the original dialogue until review.",
+      "limitation_id": "UNRES_014",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Source-verify dialect treatment for CHAR_001 in SCENE_002; retain the original dialogue until review.",
+      "limitation_id": "UNRES_015",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    },
+    {
+      "detail": "Source-verify dialect treatment for CHAR_002 in SCENE_002; retain the original dialogue until review.",
+      "limitation_id": "UNRES_016",
+      "related_phase": null,
+      "status": "unresolved",
+      "title": "Unresolved project item"
+    }
+  ],
+  "project_id": "7e0998d005d641f28e7ef6cba2806be9"
+}

@@ -1,0 +1,87 @@
+{
+  "created_at": "2026-09-29T11:39:39.082714+00:00",
+  "files": [
+    {
+      "path": "01_adapted_screenplay.json",
+      "sha256": "4d637768bf39a960e03b6beaf8559314495d6df64d8ccef62df71c97fe8ad4bc",
+      "size_bytes": 2672,
+      "type": "application/json"
+    },
+    {
+      "path": "02_adapted_screenplay.txt",
+      "sha256": "7d5b394977677817f882b9184ac0924da5dc662f1f295de421538e07bd178e75",
+      "size_bytes": 286,
+      "type": "text/plain"
+    },
+    {
+      "path": "03_project_breakdown.json",
+      "sha256": "954d1f0f1c19f2b1d9f100d83e40ba681c749af6d26e214a56b49ed3f46ba72f",
+      "size_bytes": 17428,
+      "type": "application/json"
+    },
+    {
+      "path": "04_cultural_evidence.json",
+      "sha256": "6e1a1679a142968658e84d04b1e38661a7881fab5e045dfc029a657dac7675f6",
+      "size_bytes": 38,
+      "type": "application/json"
+    },
+    {
+      "path": "05_character_bibles.json",
+      "sha256": "9e8b322207379a1b352a1da96140f8d0b58a1ac4610b785e829176d5c81dc039",
+      "size_bytes": 1360,
+      "type": "application/json"
+    },
+    {
+      "path": "06_costume_bibles.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "size_bytes": 3,
+      "type": "application/json"
+    },
+    {
+      "path": "07_scene_keyframes.json",
+      "sha256": "ee3c0f6459a51005486a2da01bff312d5461e8e746c7da702420accacf1551fe",
+      "size_bytes": 3790,
+      "type": "application/json"
+    },
+    {
+      "path": "08_visual_artifacts.json",
+      "sha256": "8405f06429503dcc5378b068fec6112ad945c3ffc104388d71acf723166eaff1",
+      "size_bytes": 13071,
+      "type": "application/json"
+    },
+    {
+      "path": "09_continuity_report.json",
+      "sha256": "b16bbb367212dcf06d4f3dfc07026add12250665c92ecbbde4e03df297751af5",
+      "size_bytes": 3722,
+      "type": "application/json"
+    },
+    {
+      "path": "10_ai_usage_log.json",
+      "sha256": "3671735b3055e82b7e17d76e59f1714c4aab06a576e6ffe80844c39da723939f",
+      "size_bytes": 3968,
+      "type": "application/json"
+    },
+    {
+      "path": "11_limitations.json",
+      "sha256": "fe64c434975f61c90d25f0e9c16c52f3cac5d6012c5ba240042496846e281dd1",
+      "size_bytes": 6084,
+      "type": "application/json"
+    },
+    {
+      "path": "visuals/ART_6D9B8DFD2C1E29E12B5B.svg",
+      "sha256": "68d06db45da6086391269dd0aba331e628c51a03fec80a63191bf97c47904b1f",
+      "size_bytes": 627,
+      "type": "image/svg+xml"
+    },
+    {
+      "path": "visuals/ART_9F718FC2D0C5F2283D88.svg",
+      "sha256": "ccccc7cec5f09bdf81041659cad639529ab5320597d2809fd7760f63aa5d6686",
+      "size_bytes": 621,
+      "type": "image/svg+xml"
+    }
+  ],
+  "package_id": "PKG_2087b88d4873ca09",
+  "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+  "title": "Untitled Screenplay",
+  "validation_status": "passed_with_warnings"
+}

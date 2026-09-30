@@ -1,0 +1,151 @@
+{
+  "character_bibles": [
+    {
+      "accessories": [],
+      "age_description": null,
+      "applied_change_ids": [],
+      "baseline_wardrobe": null,
+      "body_description": null,
+      "canonical_name": "Ravi",
+      "character_id": "CHAR_001",
+      "continuity_notes": [
+        "Use canonical identity CHAR_001 consistently in every referenced scene."
+      ],
+      "cultural_markers": [],
+      "evidence_ids": [],
+      "expression_baseline": null,
+      "face_identity": null,
+      "grooming": null,
+      "hair": null,
+      "personality_visual_cues": [],
+      "role": null,
+      "warnings": [
+        "Face, body, hair, grooming and baseline wardrobe are unspecified by the source; do not infer cultural appearance."
+      ]
+    },
+    {
+      "accessories": [],
+      "age_description": null,
+      "applied_change_ids": [],
+      "baseline_wardrobe": null,
+      "body_description": null,
+      "canonical_name": "Meena",
+      "character_id": "CHAR_002",
+      "continuity_notes": [
+        "Use canonical identity CHAR_002 consistently in every referenced scene."
+      ],
+      "cultural_markers": [],
+      "evidence_ids": [],
+      "expression_baseline": null,
+      "face_identity": null,
+      "grooming": null,
+      "hair": null,
+      "personality_visual_cues": [],
+      "role": null,
+      "warnings": [
+        "Face, body, hair, grooming and baseline wardrobe are unspecified by the source; do not infer cultural appearance."
+      ]
+    }
+  ],
+  "continuity_warnings": [
+    "Character appearance remains partially unspecified for CHAR_001; retain a consistent neutral baseline.",
+    "Character appearance remains partially unspecified for CHAR_002; retain a consistent neutral baseline."
+  ],
+  "costume_bibles": [],
+  "created_at": "2026-09-29T11:34:08.171020+00:00",
+  "culture": "Marwari",
+  "dialect": "Marwari",
+  "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+  "region": "Marwar / Jodhpur",
+  "scene_keyframes": [
+    {
+      "applied_change_ids": [],
+      "architecture": null,
+      "atmosphere": null,
+      "camera_framing": null,
+      "character_visual_refs": [
+        "CHAR_001",
+        "CHAR_002"
+      ],
+      "characters_present": [
+        "CHAR_001",
+        "CHAR_002"
+      ],
+      "composition": null,
+      "costume_visual_refs": [],
+      "cultural_details": [],
+      "environment": null,
+      "evidence_ids": [],
+      "generation_prompt": "Subject: Screenplay scene 1: RAVI enters the courtyard carrying an old envelope. RAVI I found this under the old table. MEENA What is it? Ravi gives the envelope to Meena.\nCharacters: Ravi (CHAR_001), Meena (CHAR_002)\nAppearance: follow the character bibles; unspecified traits remain unknown\nCostume: follow referenced approved costume variants only; otherwise unspecified\nLocation: Courtyard\nArchitecture: unspecified\nEnvironment: unspecified; other environmental details unspecified\nProps: old envelope, old table\nLighting: unspecified\nCamera framing: unspecified\nComposition: unspecified\nMood: unspecified\nTime: Morning\nCultural visual details (approved and evidence-linked): none specified",
+      "lighting": null,
+      "location": "Courtyard",
+      "mood": null,
+      "negative_prompt": "No unsupported modern clothing; no generic fantasy architecture; no invented or incorrect cultural markers; preserve the same character identity and appearance; no duplicate people; no text, captions, logos, or watermarks; avoid anachronistic objects unless explicitly present in the screenplay.",
+      "props": [
+        "old envelope",
+        "old table"
+      ],
+      "scene_id": "SCENE_001",
+      "scene_number": 1,
+      "time_of_day": "Morning",
+      "warnings": [
+        "Architecture and environmental specifics are unspecified; use only location and environment stated in the screenplay.",
+        "Lighting, composition and camera framing are unspecified; do not add culture-specific assumptions."
+      ],
+      "weather": null
+    },
+    {
+      "applied_change_ids": [],
+      "architecture": null,
+      "atmosphere": null,
+      "camera_framing": null,
+      "character_visual_refs": [
+        "CHAR_001",
+        "CHAR_002"
+      ],
+      "characters_present": [
+        "CHAR_001",
+        "CHAR_002"
+      ],
+      "composition": null,
+      "costume_visual_refs": [],
+      "cultural_details": [],
+      "environment": null,
+      "evidence_ids": [],
+      "generation_prompt": "Subject: Screenplay scene 2: Ravi and Meena walk through the market. RAVI We need to find out who wrote this letter.\nCharacters: Ravi (CHAR_001), Meena (CHAR_002)\nAppearance: follow the character bibles; unspecified traits remain unknown\nCostume: follow referenced approved costume variants only; otherwise unspecified\nLocation: Market\nArchitecture: unspecified\nEnvironment: unspecified; other environmental details unspecified\nProps: letter\nLighting: unspecified\nCamera framing: unspecified\nComposition: unspecified\nMood: unspecified\nTime: Afternoon\nCultural visual details (approved and evidence-linked): none specified",
+      "lighting": null,
+      "location": "Market",
+      "mood": null,
+      "negative_prompt": "No unsupported modern clothing; no generic fantasy architecture; no invented or incorrect cultural markers; preserve the same character identity and appearance; no duplicate people; no text, captions, logos, or watermarks; avoid anachronistic objects unless explicitly present in the screenplay.",
+      "props": [
+        "letter"
+      ],
+      "scene_id": "SCENE_002",
+      "scene_number": 2,
+      "time_of_day": "Afternoon",
+      "warnings": [
+        "Architecture and environmental specifics are unspecified; use only location and environment stated in the screenplay.",
+        "Lighting, composition and camera framing are unspecified; do not add culture-specific assumptions."
+      ],
+      "weather": null
+    }
+  ],
+  "script": "Devanagari",
+  "setting": "Rural",
+  "updated_at": "2026-09-29T11:34:08.171020+00:00",
+  "validation_result": {
+    "character_count": 2,
+    "costume_count": 0,
+    "errors": [],
+    "evidence_linked_claim_count": 0,
+    "missing_references": [],
+    "scene_keyframe_count": 2,
+    "unsupported_cultural_details": [],
+    "valid": true,
+    "warnings": [
+      "Character appearance remains partially unspecified for CHAR_001; retain a consistent neutral baseline.",
+      "Character appearance remains partially unspecified for CHAR_002; retain a consistent neutral baseline."
+    ]
+  },
+  "version": 1
+}

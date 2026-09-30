@@ -1,0 +1,101 @@
+[
+  {
+    "culture": "Rajasthan",
+    "publisher": "Rajasthan Foundation, Government of Rajasthan",
+    "region": "Rajasthan",
+    "reliability_notes": "Official state-level cuisine overview; ingredients and dishes are Rajasthan-general, not proof of Marwari household practice.",
+    "retrieved_at": "2026-09-29T09:26:49.028912+00:00",
+    "source_id": "SRC_007",
+    "source_type": "government",
+    "title": "Cuisine of Rajasthan",
+    "url": "https://foundation.rajasthan.gov.in/CuisineofRajasthan.aspx"
+  },
+  {
+    "culture": "Rajasthan",
+    "publisher": "Department of Tourism, Government of Rajasthan",
+    "region": "Rajasthan",
+    "reliability_notes": "Statewide tourism overview; claims are Rajasthan-general and must not be narrowed to Marwar without local corroboration.",
+    "retrieved_at": "2026-09-29T09:26:49.028912+00:00",
+    "source_id": "SRC_006",
+    "source_type": "government",
+    "title": "Customs and Rituals",
+    "url": "https://www.tourism.rajasthan.gov.in/customs.html"
+  },
+  {
+    "culture": "Rajasthan",
+    "publisher": "Department of Tourism, Government of Rajasthan",
+    "region": "Rajasthan",
+    "reliability_notes": "Official tourism travel diary about the Marwar Festival; clothing and performance descriptions are festival-context observations, not universal daily dress.",
+    "retrieved_at": "2026-09-29T09:26:49.028912+00:00",
+    "source_id": "SRC_004",
+    "source_type": "government",
+    "title": "Discovering an All New Side of the Heritage of Jodhpur",
+    "url": "https://www.tourism.rajasthan.gov.in/travel-diaries/donasthan.html"
+  },
+  {
+    "culture": "Rajasthan",
+    "publisher": "Rajasthan Foundation, Government of Rajasthan",
+    "region": "Rajasthan",
+    "reliability_notes": "Official state foundation overview; regional statements are limited to what the page explicitly enumerates.",
+    "retrieved_at": "2026-09-29T09:26:49.028912+00:00",
+    "source_id": "SRC_001",
+    "source_type": "government",
+    "title": "Historic Regions",
+    "url": "https://foundation.rajasthan.gov.in/HistoricRegions.aspx"
+  },
+  {
+    "culture": "Rajasthan",
+    "publisher": "Department of Tourism, Government of Rajasthan",
+    "region": "Rajasthan",
+    "reliability_notes": "Official destination page. Useful for named Jodhpur sites and visitor descriptions; not a comprehensive ethnography.",
+    "retrieved_at": "2026-09-29T09:26:49.028912+00:00",
+    "source_id": "SRC_003",
+    "source_type": "government",
+    "title": "Jodhpur",
+    "url": "https://www.tourism.rajasthan.gov.in/jodhpur.html"
+  },
+  {
+    "culture": "Rajasthan",
+    "publisher": "Rajasthan Foundation, Government of Rajasthan",
+    "region": "Rajasthan",
+    "reliability_notes": "Official language and culture overview; it names Marwari among Rajasthani varieties but does not provide phrase-level dialect evidence.",
+    "retrieved_at": "2026-09-29T09:26:49.028912+00:00",
+    "source_id": "SRC_002",
+    "source_type": "government",
+    "title": "Rajasthani Language",
+    "url": "https://foundation.rajasthan.gov.in/RajasthaniLanguage.aspx"
+  },
+  {
+    "culture": "Rajasthan",
+    "publisher": "Department of Tourism, Government of Rajasthan",
+    "region": "Rajasthan",
+    "reliability_notes": "Official shopping/craft guide. It names Jodhpur and Salawas for particular textiles and crafts; it does not establish household prevalence.",
+    "retrieved_at": "2026-09-29T09:26:49.028912+00:00",
+    "source_id": "SRC_005",
+    "source_type": "government",
+    "title": "Shopping in Rajasthan",
+    "url": "https://www.tourism.rajasthan.gov.in/shopping-in-rajasthan.html"
+  },
+  {
+    "culture": "Marwar historical textile collection",
+    "publisher": "Mehrangarh Museum Trust",
+    "region": "Jodhpur / Marwar",
+    "reliability_notes": "Museum catalogue describing objects and historical/court contexts, including early-20th-century paags and royal garments. Good evidence for catalogued objects and the interpretations presented by the museum; not an ethnographic survey of contemporary rural everyday dress.",
+    "retrieved_at": "2026-09-29T12:07:08.763017+00:00",
+    "source_id": "SRC_009",
+    "source_type": "museum",
+    "title": "Textiles",
+    "url": "https://www.mehrangarh.org/collection/textiles/"
+  },
+  {
+    "culture": "Sindhi-Sepahi Musalman Rajput",
+    "publisher": "Asian Journal of Home Science; Hind Institute of Science and Technology",
+    "region": "Jodhpur district, western Rajasthan",
+    "reliability_notes": "Two-page 2008 research note reporting a 2005–2006 survey of Sindhi-Sepahi Musalman Rajput families in 168 Jodhpur-district villages. Useful for its named sample and reported garments; narrow to that community, survey period and setting. Do not generalize to other communities or present-day individuals.",
+    "retrieved_at": "2026-09-29T12:07:08.763017+00:00",
+    "source_id": "SRC_008",
+    "source_type": "academic",
+    "title": "Traditional Costumes of Musalman Rajput Community in Western Rajasthan, India",
+    "url": "https://researchjournal.co.in/online/AJHS/AJHS%203%281%29/3_A-106-107.pdf"
+  }
+]

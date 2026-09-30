@@ -1,0 +1,166 @@
+{
+  "characters": [
+    {
+      "age": null,
+      "aliases": [],
+      "canonical_name": "Ravi",
+      "character_id": "CHAR_001",
+      "dialect": null,
+      "emotional_state": null,
+      "entrance_scene_id": "SCENE_001",
+      "exit_scene_id": null,
+      "personality": [],
+      "relationships": {},
+      "role": null,
+      "scene_ids": [
+        "SCENE_001",
+        "SCENE_002"
+      ]
+    },
+    {
+      "age": null,
+      "aliases": [],
+      "canonical_name": "Meena",
+      "character_id": "CHAR_002",
+      "dialect": null,
+      "emotional_state": null,
+      "entrance_scene_id": "SCENE_001",
+      "exit_scene_id": null,
+      "personality": [],
+      "relationships": {},
+      "role": null,
+      "scene_ids": [
+        "SCENE_001",
+        "SCENE_002"
+      ]
+    }
+  ],
+  "continuity_states": [
+    {
+      "carries": [
+        "Ravi carries old envelope"
+      ],
+      "changes": [],
+      "gains": [],
+      "injuries": [],
+      "knows": [],
+      "loses": [],
+      "prop_transfers": [
+        "Ravi transfers old envelope to Meena"
+      ],
+      "scene_id": "SCENE_001",
+      "wears": []
+    }
+  ],
+  "culture": null,
+  "dialect": null,
+  "locations": [
+    {
+      "aliases": [],
+      "canonical_name": "Courtyard",
+      "description": null,
+      "location_id": "LOC_001",
+      "scenes": [
+        "SCENE_001"
+      ],
+      "type": null
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Market",
+      "description": null,
+      "location_id": "LOC_002",
+      "scenes": [
+        "SCENE_002"
+      ],
+      "type": null
+    }
+  ],
+  "normalization_warnings": [],
+  "production_elements": [
+    {
+      "category": "prop",
+      "description": null,
+      "element_id": "PROP_001",
+      "name": "old envelope",
+      "scenes": [
+        "SCENE_001"
+      ]
+    },
+    {
+      "category": "prop",
+      "description": null,
+      "element_id": "PROP_002",
+      "name": "old table",
+      "scenes": [
+        "SCENE_001"
+      ]
+    },
+    {
+      "category": "prop",
+      "description": null,
+      "element_id": "PROP_003",
+      "name": "letter",
+      "scenes": [
+        "SCENE_002"
+      ]
+    }
+  ],
+  "project_id": "58098b31236b41638aeec4386052a20b",
+  "region": null,
+  "scenes": [
+    {
+      "character_ids": [
+        "CHAR_001",
+        "CHAR_002"
+      ],
+      "continuity_notes": [],
+      "date": null,
+      "dramatic_purpose": null,
+      "heading": "INT. COURTYARD - MORNING",
+      "int_ext": "INT",
+      "location": "Courtyard",
+      "mood": null,
+      "production_element_ids": [
+        "PROP_001",
+        "PROP_002"
+      ],
+      "scene_id": "SCENE_001",
+      "scene_number": 1,
+      "sub_location": null,
+      "summary": "RAVI enters the courtyard carrying an old envelope. RAVI I found this under the old table. MEENA What is it? Ravi gives the envelope to Meena.",
+      "time_of_day": "Morning",
+      "weather": null
+    },
+    {
+      "character_ids": [
+        "CHAR_001",
+        "CHAR_002"
+      ],
+      "continuity_notes": [],
+      "date": null,
+      "dramatic_purpose": null,
+      "heading": "EXT. MARKET - AFTERNOON",
+      "int_ext": "EXT",
+      "location": "Market",
+      "mood": null,
+      "production_element_ids": [
+        "PROP_003"
+      ],
+      "scene_id": "SCENE_002",
+      "scene_number": 2,
+      "sub_location": null,
+      "summary": "Ravi and Meena walk through the market. RAVI We need to find out who wrote this letter.",
+      "time_of_day": "Afternoon",
+      "weather": null
+    }
+  ],
+  "screenplay_id": "329623f78b664dccb27f6cb1e26f1c24",
+  "script": null,
+  "setting": null,
+  "source_filename": null,
+  "state_status": "extracted",
+  "title": "Untitled Screenplay",
+  "updated_at": "2026-09-29T07:38:28.042882+00:00",
+  "version": 1
+}

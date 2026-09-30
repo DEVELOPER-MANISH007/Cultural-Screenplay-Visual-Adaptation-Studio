@@ -1,0 +1,102 @@
+{
+  "generated_at": "2026-09-29T11:39:38.481655+00:00",
+  "project_id": "7e0998d005d641f28e7ef6cba2806be9",
+  "records": [
+    {
+      "input_reference": null,
+      "mode": "deterministic/offline",
+      "model": null,
+      "network_used": false,
+      "notes": "The Phase 1 processing timestamp is not persisted; timestamp here is the audit-log assembly time.",
+      "operation": "screenplay ingestion",
+      "output_reference": "503e2e0468754844bbda06412069c194",
+      "phase": "1",
+      "provider": "local ingestion service",
+      "timestamp": "2026-09-29T11:39:38.481655+00:00"
+    },
+    {
+      "input_reference": "503e2e0468754844bbda06412069c194",
+      "mode": "mock/offline",
+      "model": null,
+      "network_used": false,
+      "notes": "Development mock; no external LLM call is claimed. This is an audit snapshot, not a historical call log.",
+      "operation": "structured extraction",
+      "output_reference": "7e0998d005d641f28e7ef6cba2806be9",
+      "phase": "2",
+      "provider": "MockLLMProvider",
+      "timestamp": "2026-09-29T11:39:38.481655+00:00"
+    },
+    {
+      "input_reference": "503e2e0468754844bbda06412069c194",
+      "mode": "deterministic/offline",
+      "model": null,
+      "network_used": false,
+      "notes": "Timestamp is the persisted project-state update time.",
+      "operation": "canonical project normalization",
+      "output_reference": "7e0998d005d641f28e7ef6cba2806be9",
+      "phase": "3",
+      "provider": "local normalizer",
+      "timestamp": "2026-09-29T07:37:55.716419+00:00"
+    },
+    {
+      "input_reference": "",
+      "mode": "curated-local/offline",
+      "model": null,
+      "network_used": false,
+      "notes": "The configured provider reads local reviewed records and does not search or fetch the public web.",
+      "operation": "cultural evidence retrieval",
+      "output_reference": "",
+      "phase": "4",
+      "provider": "CuratedResearchProvider",
+      "timestamp": "2026-09-29T11:39:38.481655+00:00"
+    },
+    {
+      "input_reference": "7e0998d005d641f28e7ef6cba2806be9",
+      "mode": "mock/offline",
+      "model": null,
+      "network_used": false,
+      "notes": "Timestamp copied from persisted plan metadata.",
+      "operation": "adaptation planning",
+      "output_reference": "PLAN_7e0998d005d641f28e7ef6cba2806be9",
+      "phase": "5",
+      "provider": "deterministic mock planner",
+      "timestamp": "2026-09-29T07:37:55.716419+00:00"
+    },
+    {
+      "input_reference": "PLAN_7e0998d005d641f28e7ef6cba2806be9",
+      "mode": "deterministic/offline",
+      "model": null,
+      "network_used": false,
+      "notes": "Timestamp copied from persisted adapted-screenplay metadata; development output uses the deterministic adapter.",
+      "operation": "screenplay adaptation",
+      "output_reference": "ADAPT_CA9FEF13AAFF87AB",
+      "phase": "6",
+      "provider": "deterministic adapter",
+      "timestamp": "2026-09-29T11:34:08.171020+00:00"
+    },
+    {
+      "input_reference": "ADAPT_CA9FEF13AAFF87AB",
+      "mode": "mock/offline",
+      "model": null,
+      "network_used": false,
+      "notes": "Structured prompts/specifications only; no image was generated in Phase 7.",
+      "operation": "visual specification generation",
+      "output_reference": "7e0998d005d641f28e7ef6cba2806be9:visual-pack-v1",
+      "phase": "7",
+      "provider": "MockVisualPackGenerator",
+      "timestamp": "2026-09-29T11:34:08.171020+00:00"
+    },
+    {
+      "input_reference": "VBATCH_FE5A729A2A154CCC8B0D",
+      "mode": "mock/offline",
+      "model": null,
+      "network_used": false,
+      "notes": "Provider provenance comes from persisted artifacts; network use is unknown for non-mock providers unless the provider records it.",
+      "operation": "visual generation",
+      "output_reference": "ART_9F718FC2D0C5F2283D88,ART_6D9B8DFD2C1E29E12B5B",
+      "phase": "8",
+      "provider": "mock",
+      "timestamp": "2026-09-29T11:34:08.171020+00:00"
+    }
+  ]
+}
